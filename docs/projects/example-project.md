@@ -10,7 +10,7 @@ A simple and brief description and intro to the project.
 import GithubLinkAdmonition from '@site/src/components/GithubLinkAdmonition';
 
 <GithubLinkAdmonition 
-    link="https://github.com/spmse/dev-blog-template"
+    link="https://github.com/jeromewinkler-Omega/dev-template"
     title="Github Tip" 
     type="tip"
 >
@@ -19,8 +19,8 @@ Checkout this repository to see the code/implementation
 
 ## Quickstart
 
-1. do X
-2. do Y
+1. do read the docu
+2. do the docu
 
 ## Description
 
