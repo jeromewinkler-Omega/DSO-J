@@ -10,7 +10,7 @@ A simple and brief description and intro to the project.
 import GithubLinkAdmonition from '@site/src/components/GithubLinkAdmonition';
 
 <GithubLinkAdmonition 
-    link="https://github.com/jeromewinkler-Omega/DSO-J"
+    link="https://github.com/jeromewinkler-Omega/dev-template"
     title="Github Tip" 
     type="tip"
 >

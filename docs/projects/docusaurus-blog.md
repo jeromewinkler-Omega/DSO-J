@@ -13,7 +13,7 @@ A personal documentation and blog site built with Docusaurus. This guide walks t
 import GithubLinkAdmonition from '@site/src/components/GithubLinkAdmonition';
 
 <GithubLinkAdmonition 
-    link="https://github.com/jeromewinkler-Omega/DSO-J"
+    link="https://github.com/jeromewinkler-Omega/dev-blog-template"
     title="Github Tip" 
     type="tip"
 >
