@@ -18,12 +18,12 @@ const config: Config = {
   url: process.env.DEPLOYMENT_URL ?? "https://jeromewinkler-Omega.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: process.env.BASE_URL ?? "/DSO-J/",
+  baseUrl: process.env.BASE_URL ?? "/dev-blog-template/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: process.env.GITHUB_ORG ?? 'jeromewinkler-Omega', // Usually your GitHub org/user name.
-  projectName: process.env.GITHUB_PROJECT ?? 'DSO-J', // Usually your repo name.
+  projectName: process.env.GITHUB_PROJECT ?? 'dev-blog-template', // Usually your repo name.
 
   deploymentBranch: process.env.DEPLOYMENT_BRANCH ?? 'gh-pages', // Branch to deploy to.
 
